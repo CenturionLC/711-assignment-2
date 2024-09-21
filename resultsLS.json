@@ -1,0 +1,202 @@
+[
+    {
+        "number_of_hidden_layers": 5,
+        "hidden_layer_size": 2048,
+        "test_loss": 0.5420961678028107,
+        "test_accuracy": 0.8380207537560478,
+        "stdv_test_loss": 0.058009781829802765,
+        "stdv_test_accuracy": 0.01710379698310794
+    },
+    {
+        "number_of_hidden_layers": 5,
+        "hidden_layer_size": 1024,
+        "test_loss": 0.5412222385406494,
+        "test_accuracy": 0.8315991851285969,
+        "stdv_test_loss": 0.06102161451371639,
+        "stdv_test_accuracy": 0.012824455358452195
+    },
+    {
+        "number_of_hidden_layers": 5,
+        "hidden_layer_size": 512,
+        "test_loss": 0.5854652643203735,
+        "test_accuracy": 0.8358893557422968,
+        "stdv_test_loss": 0.07463386025459384,
+        "stdv_test_accuracy": 0.0166913422834718
+    },
+    {
+        "number_of_hidden_layers": 5,
+        "hidden_layer_size": 256,
+        "test_loss": 0.5814752817153931,
+        "test_accuracy": 0.839449961802903,
+        "stdv_test_loss": 0.0909778251276592,
+        "stdv_test_accuracy": 0.010275470637952328
+    },
+    {
+        "number_of_hidden_layers": 5,
+        "hidden_layer_size": 128,
+        "test_loss": 0.5788169920444488,
+        "test_accuracy": 0.8373160173160172,
+        "stdv_test_loss": 0.08138485054801949,
+        "stdv_test_accuracy": 0.00864538561372328
+    },
+    {
+        "number_of_hidden_layers": 4,
+        "hidden_layer_size": 2048,
+        "test_loss": 0.5988238394260407,
+        "test_accuracy": 0.8330258467023173,
+        "stdv_test_loss": 0.08481474677173766,
+        "stdv_test_accuracy": 0.013314995149681189
+    },
+    {
+        "number_of_hidden_layers": 4,
+        "hidden_layer_size": 1024,
+        "test_loss": 0.5801921904087066,
+        "test_accuracy": 0.8308976317799848,
+        "stdv_test_loss": 0.05191159639583261,
+        "stdv_test_accuracy": 0.005502069561043853
+    },
+    {
+        "number_of_hidden_layers": 4,
+        "hidden_layer_size": 512,
+        "test_loss": 0.5647348701953888,
+        "test_accuracy": 0.8376648841354724,
+        "stdv_test_loss": 0.07777539388786926,
+        "stdv_test_accuracy": 0.013274462350256888
+    },
+    {
+        "number_of_hidden_layers": 4,
+        "hidden_layer_size": 256,
+        "test_loss": 0.5979170083999634,
+        "test_accuracy": 0.8344588744588745,
+        "stdv_test_loss": 0.07506030585997603,
+        "stdv_test_accuracy": 0.012731270261002058
+    },
+    {
+        "number_of_hidden_layers": 4,
+        "hidden_layer_size": 128,
+        "test_loss": 0.6118192434310913,
+        "test_accuracy": 0.8312452253628724,
+        "stdv_test_loss": 0.11739867647226114,
+        "stdv_test_accuracy": 0.011079252375580004
+    },
+    {
+        "number_of_hidden_layers": 3,
+        "hidden_layer_size": 2048,
+        "test_loss": 0.5886840224266052,
+        "test_accuracy": 0.8333829895594601,
+        "stdv_test_loss": 0.0714686642223202,
+        "stdv_test_accuracy": 0.013917134067536004
+    },
+    {
+        "number_of_hidden_layers": 3,
+        "hidden_layer_size": 1024,
+        "test_loss": 0.5762356638908386,
+        "test_accuracy": 0.8312484084542907,
+        "stdv_test_loss": 0.06590566140388625,
+        "stdv_test_accuracy": 0.010852778268812308
+    },
+    {
+        "number_of_hidden_layers": 3,
+        "hidden_layer_size": 512,
+        "test_loss": 0.5634502530097961,
+        "test_accuracy": 0.8258874458874459,
+        "stdv_test_loss": 0.09670972050274679,
+        "stdv_test_accuracy": 0.01868337751024868
+    },
+    {
+        "number_of_hidden_layers": 3,
+        "hidden_layer_size": 256,
+        "test_loss": 0.5765967607498169,
+        "test_accuracy": 0.8312439521263052,
+        "stdv_test_loss": 0.059258443056174157,
+        "stdv_test_accuracy": 0.01039033057809121
+    },
+    {
+        "number_of_hidden_layers": 3,
+        "hidden_layer_size": 128,
+        "test_loss": 0.5725447773933411,
+        "test_accuracy": 0.8251782531194296,
+        "stdv_test_loss": 0.06971161573314781,
+        "stdv_test_accuracy": 0.013034594800362781
+    },
+    {
+        "number_of_hidden_layers": 2,
+        "hidden_layer_size": 2048,
+        "test_loss": 0.5895357191562652,
+        "test_accuracy": 0.8298172905525847,
+        "stdv_test_loss": 0.09257307254010522,
+        "stdv_test_accuracy": 0.01218786070028612
+    },
+    {
+        "number_of_hidden_layers": 2,
+        "hidden_layer_size": 1024,
+        "test_loss": 0.5769664943218231,
+        "test_accuracy": 0.8344480519480519,
+        "stdv_test_loss": 0.079348714345917,
+        "stdv_test_accuracy": 0.01868888000130108
+    },
+    {
+        "number_of_hidden_layers": 2,
+        "hidden_layer_size": 512,
+        "test_loss": 0.6088561534881591,
+        "test_accuracy": 0.8276744334097277,
+        "stdv_test_loss": 0.07436407907834469,
+        "stdv_test_accuracy": 0.018023554584624027
+    },
+    {
+        "number_of_hidden_layers": 2,
+        "hidden_layer_size": 256,
+        "test_loss": 0.5831620991230011,
+        "test_accuracy": 0.8365915457091928,
+        "stdv_test_loss": 0.12370848492413714,
+        "stdv_test_accuracy": 0.016415729568928155
+    },
+    {
+        "number_of_hidden_layers": 2,
+        "hidden_layer_size": 128,
+        "test_loss": 0.5996975362300873,
+        "test_accuracy": 0.8330290297937356,
+        "stdv_test_loss": 0.09696525676062345,
+        "stdv_test_accuracy": 0.008625855106222593
+    },
+    {
+        "number_of_hidden_layers": 1,
+        "hidden_layer_size": 2048,
+        "test_loss": 0.5711884200572968,
+        "test_accuracy": 0.8358785332314744,
+        "stdv_test_loss": 0.07611599959223798,
+        "stdv_test_accuracy": 0.016073657917332496
+    },
+    {
+        "number_of_hidden_layers": 1,
+        "hidden_layer_size": 1024,
+        "test_loss": 0.5858656346797944,
+        "test_accuracy": 0.8305328495034378,
+        "stdv_test_loss": 0.08758906857503028,
+        "stdv_test_accuracy": 0.01411070599503705
+    },
+    {
+        "number_of_hidden_layers": 1,
+        "hidden_layer_size": 512,
+        "test_loss": 0.5921424329280853,
+        "test_accuracy": 0.835879169849758,
+        "stdv_test_loss": 0.08646802518430606,
+        "stdv_test_accuracy": 0.014129125807944315
+    },
+    {
+        "number_of_hidden_layers": 1,
+        "hidden_layer_size": 256,
+        "test_loss": 0.5969751358032227,
+        "test_accuracy": 0.828036032594856,
+        "stdv_test_loss": 0.06809577314400468,
+        "stdv_test_accuracy": 0.007654428427235686
+    },
+    {
+        "number_of_hidden_layers": 1,
+        "hidden_layer_size": 128,
+        "test_loss": 0.6069600939750671,
+        "test_accuracy": 0.8316017316017316,
+        "stdv_test_loss": 0.09838346152437295,
+        "stdv_test_accuracy": 0.011475909395612363
+    }
+]

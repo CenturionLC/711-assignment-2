@@ -1,0 +1,130 @@
+[
+    {
+        "learning_rate": 0.001,
+        "epochs": 250,
+        "test_loss": 0.53618905544281,
+        "test_accuracy": 0.7720250827603768,
+        "stdv_test_loss": 0.02787148965082015,
+        "stdv_test_accuracy": 0.007908860289171945
+    },
+    {
+        "learning_rate": 0.001,
+        "epochs": 500,
+        "test_loss": 0.5394646883010864,
+        "test_accuracy": 0.8094837025719379,
+        "stdv_test_loss": 0.056143867558207404,
+        "stdv_test_accuracy": 0.010164885471146638
+    },
+    {
+        "learning_rate": 0.001,
+        "epochs": 750,
+        "test_loss": 0.6049939155578613,
+        "test_accuracy": 0.8298128342245988,
+        "stdv_test_loss": 0.08055354795741426,
+        "stdv_test_accuracy": 0.018805603240595027
+    },
+    {
+        "learning_rate": 0.001,
+        "epochs": 1000,
+        "test_loss": 0.6538169860839844,
+        "test_accuracy": 0.8380188439011969,
+        "stdv_test_loss": 0.05764211353601319,
+        "stdv_test_accuracy": 0.01581385650228344
+    },
+    {
+        "learning_rate": 0.005,
+        "epochs": 250,
+        "test_loss": 0.5460708498954773,
+        "test_accuracy": 0.7677400050929463,
+        "stdv_test_loss": 0.03868289939548859,
+        "stdv_test_accuracy": 0.017674773407811685
+    },
+    {
+        "learning_rate": 0.005,
+        "epochs": 500,
+        "test_loss": 0.5196075439453125,
+        "test_accuracy": 0.819471606824548,
+        "stdv_test_loss": 0.07653173439838021,
+        "stdv_test_accuracy": 0.013564442576876959
+    },
+    {
+        "learning_rate": 0.005,
+        "epochs": 750,
+        "test_loss": 0.5767464518547059,
+        "test_accuracy": 0.8376706137000255,
+        "stdv_test_loss": 0.05957876270718852,
+        "stdv_test_accuracy": 0.009009074934768968
+    },
+    {
+        "learning_rate": 0.005,
+        "epochs": 1000,
+        "test_loss": 0.6645328760147095,
+        "test_accuracy": 0.8437280366692133,
+        "stdv_test_loss": 0.1435944897468744,
+        "stdv_test_accuracy": 0.013363098277580804
+    },
+    {
+        "learning_rate": 0.01,
+        "epochs": 250,
+        "test_loss": 0.5343447506427765,
+        "test_accuracy": 0.7695276292335116,
+        "stdv_test_loss": 0.02831114044225897,
+        "stdv_test_accuracy": 0.014050516911191215
+    },
+    {
+        "learning_rate": 0.01,
+        "epochs": 500,
+        "test_loss": 0.5269388556480408,
+        "test_accuracy": 0.806275783040489,
+        "stdv_test_loss": 0.05171723986076059,
+        "stdv_test_accuracy": 0.007357281742247426
+    },
+    {
+        "learning_rate": 0.01,
+        "epochs": 750,
+        "test_loss": 0.5812878012657166,
+        "test_accuracy": 0.8241100076394196,
+        "stdv_test_loss": 0.07727219971884312,
+        "stdv_test_accuracy": 0.008851175230835139
+    },
+    {
+        "learning_rate": 0.01,
+        "epochs": 1000,
+        "test_loss": 0.6380827188491821,
+        "test_accuracy": 0.8448013750954928,
+        "stdv_test_loss": 0.07432601278533542,
+        "stdv_test_accuracy": 0.010397924722547823
+    },
+    {
+        "learning_rate": 0.1,
+        "epochs": 250,
+        "test_loss": 0.544476592540741,
+        "test_accuracy": 0.7681035141329259,
+        "stdv_test_loss": 0.03576370166356792,
+        "stdv_test_accuracy": 0.01656052403327725
+    },
+    {
+        "learning_rate": 0.1,
+        "epochs": 500,
+        "test_loss": 0.5232922852039337,
+        "test_accuracy": 0.8151967150496562,
+        "stdv_test_loss": 0.053201513622060416,
+        "stdv_test_accuracy": 0.008433827719219076
+    },
+    {
+        "learning_rate": 0.1,
+        "epochs": 750,
+        "test_loss": 0.5896984577178955,
+        "test_accuracy": 0.8333836261777439,
+        "stdv_test_loss": 0.07478592485728838,
+        "stdv_test_accuracy": 0.011779591954435788
+    },
+    {
+        "learning_rate": 0.1,
+        "epochs": 1000,
+        "test_loss": 0.6467859625816346,
+        "test_accuracy": 0.8408798064680418,
+        "stdv_test_loss": 0.045575449327960045,
+        "stdv_test_accuracy": 0.00762064830545283
+    }
+]
